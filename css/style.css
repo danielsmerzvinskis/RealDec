@@ -24,3 +24,11 @@
     }
     .row.content {height:auto;}
 }
+
+.row.content{
+    background-color: dimgray;
+}
+
+body{
+    background-color: dimgray;
+}
