@@ -32,3 +32,7 @@
 body{
     background-color: dimgray;
 }
+
+collapse navbar-collapse{
+    background-color: dimgray;   
+}
